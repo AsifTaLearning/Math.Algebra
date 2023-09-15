@@ -1,0 +1,2 @@
+interactive only work on Jupyter notebook .
+Dont forget to uncomment %matplotlib inline
